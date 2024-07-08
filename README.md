@@ -1,2 +1,2 @@
 # rando-repos
-garbage practice repo
+garbage practice repo to practice
